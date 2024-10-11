@@ -1,0 +1,24 @@
+2024-08-31 19:50:27,305: Key q pressed.
+2024-08-31 19:50:27,575: Key w pressed.
+2024-08-31 19:50:27,804: Key e pressed.
+2024-08-31 19:50:28,965: Special key Key.alt_l pressed.
+2024-08-31 19:50:28,997: Special key Key.tab pressed.
+2024-08-31 19:50:30,805: Key h pressed.
+2024-08-31 19:50:33,573: Special key Key.backspace pressed.
+2024-08-31 19:50:38,100: Special key Key.alt_l pressed.
+2024-08-31 19:50:38,216: Special key Key.tab pressed.
+2024-08-31 19:50:38,984: Special key Key.alt_l pressed.
+2024-08-31 19:50:39,089: Special key Key.tab pressed.
+2024-08-31 19:50:44,979: Special key Key.f5 pressed.
+2024-08-31 19:50:45,317: Special key Key.f5 pressed.
+2024-08-31 19:50:46,151: Key 5 pressed.
+2024-08-31 19:50:46,722: Key t pressed.
+2024-08-31 19:50:49,665: Key , pressed.
+2024-08-31 19:50:50,042: Key . pressed.
+2024-08-31 19:50:50,502: Special key Key.shift_r pressed.
+2024-08-31 19:50:50,852: Key < pressed.
+2024-08-31 19:50:51,342: Key > pressed.
+2024-08-31 19:50:52,452: Special key Key.ctrl_r pressed.
+2024-08-31 19:50:52,932: Special key Key.alt_gr pressed.
+2024-08-31 19:50:59,517: Special key Key.alt_l pressed.
+2024-08-31 19:50:59,548: Special key Key.tab pressed.
